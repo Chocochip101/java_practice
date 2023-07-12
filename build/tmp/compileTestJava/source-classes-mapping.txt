@@ -1,0 +1,32 @@
+next/reflection/Junit3Test.java
+ next.reflection.Junit3Test
+next/fp/StreamStudyTest.java
+ next.fp.StreamStudyTest
+next/reflection/Junit4Test.java
+ next.reflection.Junit4Test
+next/fp/LambdaTest.java
+ next.fp.LambdaTest
+next/optional/UsersTest.java
+ next.optional.UsersTest
+next/reflection/MyTest.java
+ next.reflection.MyTest
+next/optional/UserTest.java
+ next.optional.UserTest
+next/reflection/Junit4Runner.java
+ next.reflection.Junit4Runner
+next/optional/ExpressionTest.java
+ next.optional.ExpressionTest
+next/optional/ComputerStoreTest.java
+ next.optional.ComputerStoreTest
+next/reflection/Question.java
+ next.reflection.Question
+next/fp/CarTest.java
+ next.fp.CarTest
+ next.fp.CarTest$1
+ next.fp.CarTest$2
+next/exception/PositionTest.java
+ next.exception.PositionTest
+next/reflection/ReflectionTest.java
+ next.reflection.ReflectionTest
+next/reflection/Junit3Runner.java
+ next.reflection.Junit3Runner
